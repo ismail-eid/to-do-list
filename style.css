@@ -1,0 +1,32 @@
+
+body .container {
+  width: 620px;
+}
+
+.add-item .col-12 input {
+  width: calc(100% - 60px);
+  display: inline-block;
+}
+
+.add-item .col-12 button.btn {
+  margin-top: -6px;
+}
+.row {
+  background-color: blue;
+  border: 1px solid white;
+}
+
+.row p {
+  margin: 0;
+  color: white;
+}
+
+button.remove {
+  margin-right: 6px;
+  opacity: 0;
+}
+
+#display-list-options button {
+  background-color: white;
+}
+
